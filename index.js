@@ -1,6 +1,7 @@
+
 /***** Deliverable 1 *****/
-const header = document.querySelector("#header")
-console.log("Here's your header:", header)
+const header = document.getElementById('header');
+console.log("Here's your header:", header);
 
 
 /***** Deliverable 2 *****/
